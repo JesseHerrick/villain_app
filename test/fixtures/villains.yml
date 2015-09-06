@@ -1,11 +1,4 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  name: MyString
-  description: MyText
-  at_large: false
-
-two:
-  name: MyString
-  description: MyText
-  at_large: false
+joker:
+  name: The Joker
+  description: A psychopath with a sadistic sense of humor... among other things.
+  at_large: true

@@ -1,9 +1,11 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+gotham_upper_level:
+  notes: Some guy we saw was around and then we reported it... so... go ahead.
+  villain: joker
 
-one:
-  notes: MyText
-  villain_id: 
+gotham_middle_level:
+  notes: Some guy we saw was around and then we reported it... so... go ahead.
+  villain: joker
 
-two:
-  notes: MyText
-  villain_id: 
+gotham_lower_level:
+  notes: Some guy we saw was around and then we reported it... so... go ahead.
+  villain: joker
