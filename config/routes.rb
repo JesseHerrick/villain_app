@@ -1,6 +1,8 @@
 Rails.application.routes.draw do
-  resources :villain do
-    resources :henchman
-    resources :sighting
+  namespace :v1 do
+    resources :villain do
+      resources :henchman
+      resources :sighting
+    end
   end
 end
