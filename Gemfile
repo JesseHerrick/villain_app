@@ -5,4 +5,6 @@ gem 'rails-api'
 
 # extra gems
 gem 'active_model_serializers'
+gem 'minitest-spec-rails'
 gem 'pg'
+gem 'pry-rails'
