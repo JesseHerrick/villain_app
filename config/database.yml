@@ -1,0 +1,11 @@
+default: &default
+  hostname: localhost
+  adapter: postgresql
+
+development:
+  database: villain_app_dev
+  <<: *default
+
+test:
+  database: villain_app_test
+  <<: *default
